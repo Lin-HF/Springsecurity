@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.imooc;
+
+/**
+ * @author linhaifeng1
+ *
+ */
+public class DemoApplication {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
