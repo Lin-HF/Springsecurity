@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.imooc.web.controller;
+
+/**
+ * @author linhaifeng1
+ *
+ */
+public class UserController {
+
+}

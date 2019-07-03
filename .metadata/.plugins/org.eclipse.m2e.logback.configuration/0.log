@@ -1707,3 +1707,336 @@ org.eclipse.core.runtime.CoreException: Variable references non-existent resourc
 2019-07-03 00:40:48,807 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2019-07-03 00:40:50,893 [Worker-4: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier  to /imooc-security-browser/target/classes
 2019-07-03 00:40:50,897 [Worker-4: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier  to /imooc-security-core/target/classes
+2019-07-03 16:06:11,148 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-03 16:06:13,026 [Worker-3: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier  to /imooc-security-browser/target/classes
+2019-07-03 16:06:13,029 [Worker-3: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier  to /imooc-security-core/target/classes
+2019-07-03 16:09:30,296 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:09:30,300 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:09:30,302 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:09:30,303 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:09:30,800 [Worker-7: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier  to /imooc-security-core/target/classes
+2019-07-03 16:09:30,809 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:09:30,810 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:09:30,811 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:09:30,812 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:09:31,095 [Worker-7: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier  to /imooc-security-core/target/classes
+2019-07-03 16:09:31,106 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:09:31,107 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:09:31,108 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:09:31,109 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:09:31,505 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.imooc.security:imooc-security-demo:1.0.0-SNAPSHOT @ /Users/linhaifeng1/Documents/workspace-sts-3.9.9.RELEASE/imooc-security-demo/pom.xml.
+2019-07-03 16:09:31,942 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.5.6.RELEASE/spring-boot-starter-test-1.5.6.RELEASE.pom
+2019-07-03 16:09:31,955 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.5.6.RELEASE/spring-boot-starter-test-1.5.6.RELEASE.pom
+2019-07-03 16:09:31,971 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/1.5.6.RELEASE/spring-boot-test-1.5.6.RELEASE.pom
+2019-07-03 16:09:31,982 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/1.5.6.RELEASE/spring-boot-test-1.5.6.RELEASE.pom
+2019-07-03 16:09:31,998 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/1.5.6.RELEASE/spring-boot-test-autoconfigure-1.5.6.RELEASE.pom
+2019-07-03 16:09:32,061 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/1.5.6.RELEASE/spring-boot-test-autoconfigure-1.5.6.RELEASE.pom
+2019-07-03 16:09:32,075 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.pom
+2019-07-03 16:09:32,085 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.pom
+2019-07-03 16:09:32,096 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/minidev/json-smart/2.2.1/json-smart-2.2.1.pom
+2019-07-03 16:09:32,107 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/minidev/json-smart/2.2.1/json-smart-2.2.1.pom
+2019-07-03 16:09:32,118 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/minidev/accessors-smart/1.1/accessors-smart-1.1.pom
+2019-07-03 16:09:32,129 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/minidev/accessors-smart/1.1/accessors-smart-1.1.pom
+2019-07-03 16:09:32,140 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/minidev/minidev-parent/2.2/minidev-parent-2.2.pom
+2019-07-03 16:09:32,150 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/minidev/minidev-parent/2.2/minidev-parent-2.2.pom
+2019-07-03 16:09:32,163 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.3/asm-5.0.3.pom
+2019-07-03 16:09:32,173 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.3/asm-5.0.3.pom
+2019-07-03 16:09:32,185 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.3/asm-parent-5.0.3.pom
+2019-07-03 16:09:32,199 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm-parent/5.0.3/asm-parent-5.0.3.pom
+2019-07-03 16:09:32,216 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/assertj/assertj-core/2.6.0/assertj-core-2.6.0.pom
+2019-07-03 16:09:32,227 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/assertj/assertj-core/2.6.0/assertj-core-2.6.0.pom
+2019-07-03 16:09:32,239 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/assertj/assertj-parent-pom/2.1.4/assertj-parent-pom-2.1.4.pom
+2019-07-03 16:09:32,252 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/assertj/assertj-parent-pom/2.1.4/assertj-parent-pom-2.1.4.pom
+2019-07-03 16:09:32,266 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.pom
+2019-07-03 16:09:32,277 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.pom
+2019-07-03 16:09:32,289 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5.1/objenesis-2.5.1.pom
+2019-07-03 16:09:32,300 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5.1/objenesis-2.5.1.pom
+2019-07-03 16:09:32,311 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.5.1/objenesis-parent-2.5.1.pom
+2019-07-03 16:09:32,331 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.5.1/objenesis-parent-2.5.1.pom
+2019-07-03 16:09:32,345 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.4.0/jsonassert-1.4.0.pom
+2019-07-03 16:09:32,356 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.4.0/jsonassert-1.4.0.pom
+2019-07-03 16:09:32,369 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.10.RELEASE/spring-test-4.3.10.RELEASE.pom
+2019-07-03 16:09:32,382 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.10.RELEASE/spring-test-4.3.10.RELEASE.pom
+2019-07-03 16:09:32,387 [Worker-7: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier  to /imooc-security-browser/target/classes
+2019-07-03 16:09:32,388 [Worker-7: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier  to /imooc-security-core/target/classes
+2019-07-03 16:09:32,407 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.5.6.RELEASE/spring-boot-starter-test-1.5.6.RELEASE.jar
+2019-07-03 16:09:32,418 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.5.6.RELEASE/spring-boot-starter-test-1.5.6.RELEASE.jar
+2019-07-03 16:09:32,428 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/1.5.6.RELEASE/spring-boot-test-1.5.6.RELEASE.jar
+2019-07-03 16:09:32,461 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/1.5.6.RELEASE/spring-boot-test-1.5.6.RELEASE.jar
+2019-07-03 16:09:32,473 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/1.5.6.RELEASE/spring-boot-test-autoconfigure-1.5.6.RELEASE.jar
+2019-07-03 16:09:32,488 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/1.5.6.RELEASE/spring-boot-test-autoconfigure-1.5.6.RELEASE.jar
+2019-07-03 16:09:32,500 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.jar
+2019-07-03 16:09:32,520 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.jar
+2019-07-03 16:09:32,530 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/minidev/json-smart/2.2.1/json-smart-2.2.1.jar
+2019-07-03 16:09:32,547 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/minidev/json-smart/2.2.1/json-smart-2.2.1.jar
+2019-07-03 16:09:32,557 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/minidev/accessors-smart/1.1/accessors-smart-1.1.jar
+2019-07-03 16:09:32,571 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/minidev/accessors-smart/1.1/accessors-smart-1.1.jar
+2019-07-03 16:09:32,581 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar
+2019-07-03 16:09:32,596 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar
+2019-07-03 16:09:32,609 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/assertj/assertj-core/2.6.0/assertj-core-2.6.0.jar
+2019-07-03 16:09:32,682 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/assertj/assertj-core/2.6.0/assertj-core-2.6.0.jar
+2019-07-03 16:09:32,698 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.jar
+2019-07-03 16:09:32,759 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.jar
+2019-07-03 16:09:32,798 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5.1/objenesis-2.5.1.jar
+2019-07-03 16:09:32,814 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5.1/objenesis-2.5.1.jar
+2019-07-03 16:09:32,825 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.4.0/jsonassert-1.4.0.jar
+2019-07-03 16:09:32,838 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.4.0/jsonassert-1.4.0.jar
+2019-07-03 16:09:32,850 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.10.RELEASE/spring-test-4.3.10.RELEASE.jar
+2019-07-03 16:09:32,889 [Worker-7: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.10.RELEASE/spring-test-4.3.10.RELEASE.jar
+2019-07-03 16:09:33,136 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:09:33,136 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:09:33,143 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:09:33,143 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:09:34,433 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier  to /imooc-security-browser/target/classes
+2019-07-03 16:09:34,433 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier  to /imooc-security-core/target/classes
+2019-07-03 16:09:34,527 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.5.6.RELEASE/spring-boot-starter-test-1.5.6.RELEASE-sources.jar
+2019-07-03 16:09:34,537 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/1.5.6.RELEASE/spring-boot-starter-test-1.5.6.RELEASE-sources.jar
+2019-07-03 16:09:34,569 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-test:1.5.6.RELEASE
+2019-07-03 16:09:34,658 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/1.5.6.RELEASE/spring-boot-test-1.5.6.RELEASE-sources.jar
+2019-07-03 16:09:34,695 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/1.5.6.RELEASE/spring-boot-test-1.5.6.RELEASE-sources.jar
+2019-07-03 16:09:34,705 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test:1.5.6.RELEASE
+2019-07-03 16:09:34,878 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/1.5.6.RELEASE/spring-boot-test-autoconfigure-1.5.6.RELEASE-sources.jar
+2019-07-03 16:09:34,923 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/1.5.6.RELEASE/spring-boot-test-autoconfigure-1.5.6.RELEASE-sources.jar
+2019-07-03 16:09:34,935 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-test-autoconfigure:1.5.6.RELEASE
+2019-07-03 16:09:35,057 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0-sources.jar
+2019-07-03 16:09:35,105 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0-sources.jar
+2019-07-03 16:09:35,113 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.jayway.jsonpath:json-path:2.2.0
+2019-07-03 16:09:35,195 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/minidev/json-smart/2.2.1/json-smart-2.2.1-sources.jar
+2019-07-03 16:09:35,223 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/minidev/json-smart/2.2.1/json-smart-2.2.1-sources.jar
+2019-07-03 16:09:35,235 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.minidev:json-smart:2.2.1
+2019-07-03 16:09:35,320 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/minidev/accessors-smart/1.1/accessors-smart-1.1-sources.jar
+2019-07-03 16:09:35,339 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/minidev/accessors-smart/1.1/accessors-smart-1.1-sources.jar
+2019-07-03 16:09:35,347 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.minidev:accessors-smart:1.1
+2019-07-03 16:09:35,430 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.3/asm-5.0.3-sources.jar
+2019-07-03 16:09:35,554 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ow2/asm/asm/5.0.3/asm-5.0.3-sources.jar
+2019-07-03 16:09:35,565 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ow2.asm:asm:5.0.3
+2019-07-03 16:09:35,652 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12-sources.jar
+2019-07-03 16:09:35,699 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12-sources.jar
+2019-07-03 16:09:35,722 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.12
+2019-07-03 16:09:35,814 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/assertj/assertj-core/2.6.0/assertj-core-2.6.0-sources.jar
+2019-07-03 16:09:35,889 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/assertj/assertj-core/2.6.0/assertj-core-2.6.0-sources.jar
+2019-07-03 16:09:35,907 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.assertj:assertj-core:2.6.0
+2019-07-03 16:09:35,995 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19-sources.jar
+2019-07-03 16:09:36,145 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19-sources.jar
+2019-07-03 16:09:36,152 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.mockito:mockito-core:1.10.19
+2019-07-03 16:09:36,235 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5.1/objenesis-2.5.1-sources.jar
+2019-07-03 16:09:36,265 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.5.1/objenesis-2.5.1-sources.jar
+2019-07-03 16:09:36,271 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.objenesis:objenesis:2.5.1
+2019-07-03 16:09:36,356 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2019-07-03 16:09:36,377 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2019-07-03 16:09:36,387 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2019-07-03 16:09:36,470 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar
+2019-07-03 16:09:36,496 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar
+2019-07-03 16:09:36,504 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-library:1.3
+2019-07-03 16:09:36,591 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.4.0/jsonassert-1.4.0-sources.jar
+2019-07-03 16:09:36,610 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/skyscreamer/jsonassert/1.4.0/jsonassert-1.4.0-sources.jar
+2019-07-03 16:09:36,619 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.skyscreamer:jsonassert:1.4.0
+2019-07-03 16:09:36,713 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.10.RELEASE/spring-test-4.3.10.RELEASE-sources.jar
+2019-07-03 16:09:36,778 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:09:36,782 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:09:36,784 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:09:36,784 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:09:36,788 [Worker-3: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/4.3.10.RELEASE/spring-test-4.3.10.RELEASE-sources.jar
+2019-07-03 16:09:36,800 [Worker-3: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-test:4.3.10.RELEASE
+2019-07-03 16:09:39,298 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:09:39,299 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:09:39,300 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:09:39,301 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:10:55,987 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:10:55,987 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:10:55,988 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:10:55,989 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:24:36,995 [Worker-11: Launching UserControllerTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:24:36,996 [Worker-11: Launching UserControllerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:24:36,998 [Worker-11: Launching UserControllerTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:24:36,999 [Worker-11: Launching UserControllerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:24:37,808 [Worker-11: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 16:24:37,809 [Worker-11: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 16:26:18,211 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:26:18,212 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:26:18,213 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:26:18,213 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:30:27,147 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:30:27,148 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:30:27,148 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:30:27,149 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:32:11,513 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:32:11,514 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:32:11,515 [Worker-28: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:32:11,515 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:33:40,810 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:33:40,811 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:33:40,812 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:33:40,812 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:36:24,582 [Worker-33: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:36:24,583 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:36:24,583 [Worker-33: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:36:24,584 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:36:35,015 [Worker-30: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 16:36:35,015 [Worker-30: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 16:41:59,834 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:41:59,835 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:41:59,835 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:41:59,836 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:42:05,007 [Worker-36: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 16:42:05,007 [Worker-36: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 16:42:32,648 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:42:32,648 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:42:32,649 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:42:32,649 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:42:47,934 [Worker-38: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 16:42:47,934 [Worker-38: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 16:43:59,414 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:43:59,414 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:43:59,417 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:43:59,418 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:44:04,805 [Worker-39: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 16:44:04,805 [Worker-39: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 16:44:56,606 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:44:56,607 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:44:56,607 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:44:56,608 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:45:00,209 [Worker-35: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 16:45:00,209 [Worker-35: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 16:45:39,237 [Worker-37: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:45:39,237 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:45:39,238 [Worker-37: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:45:39,238 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:45:52,004 [Worker-40: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 16:45:52,004 [Worker-40: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 16:48:40,475 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:48:40,476 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:48:40,476 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:48:40,477 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:48:55,572 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:48:55,573 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:48:55,573 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:48:55,574 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:48:56,903 [Worker-35: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 16:48:56,903 [Worker-35: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 16:50:02,297 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:50:02,298 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:50:02,299 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:50:02,299 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:51:20,555 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:51:20,556 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:51:20,556 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:51:20,557 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:51:50,708 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:51:50,709 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:51:50,710 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:51:50,710 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:54:12,539 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:54:12,540 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:54:12,541 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:54:12,541 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:54:58,828 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:54:58,829 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:54:58,830 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:54:58,830 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:55:40,862 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:55:40,863 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 16:55:40,863 [Worker-39: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:55:40,864 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:55:47,458 [Worker-25: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 16:55:47,458 [Worker-25: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 16:59:13,563 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:59:13,564 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 16:59:13,564 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 16:59:13,565 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 17:00:22,545 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 17:00:22,546 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 17:00:22,547 [Worker-36: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 17:00:22,547 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 17:00:26,680 [Worker-39: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 17:00:26,680 [Worker-39: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 17:58:37,672 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 17:58:37,673 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 17:58:37,674 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 17:58:37,674 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 17:59:14,032 [Worker-25: Launching UserControllerTest.whenGetInfoSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 17:59:14,032 [Worker-25: Launching UserControllerTest.whenGetInfoSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 18:01:36,220 [Worker-50: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:01:36,221 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 18:01:36,221 [Worker-50: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:01:36,221 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:04:42,847 [Worker-53: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:04:42,848 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 18:04:42,848 [Worker-53: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:04:42,849 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:04:45,040 [Worker-50: Launching UserControllerTest.whenGetInfoSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 18:04:45,041 [Worker-50: Launching UserControllerTest.whenGetInfoSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 18:09:54,299 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:09:54,299 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:09:54,300 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:09:54,300 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:10:03,685 [Worker-52: Launching UserControllerTest.whenGetInfoFail] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:10:03,686 [Worker-52: Launching UserControllerTest.whenGetInfoFail] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 18:10:03,687 [Worker-52: Launching UserControllerTest.whenGetInfoFail] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:10:03,688 [Worker-52: Launching UserControllerTest.whenGetInfoFail] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:10:04,415 [Worker-52: Launching UserControllerTest.whenGetInfoFail] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 18:10:04,415 [Worker-52: Launching UserControllerTest.whenGetInfoFail] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 18:10:42,248 [Worker-53: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:10:42,249 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 18:10:42,250 [Worker-53: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:10:42,251 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:10:44,303 [Worker-50: Launching UserControllerTest.whenGetInfoFail] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 18:10:44,303 [Worker-50: Launching UserControllerTest.whenGetInfoFail] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 18:11:09,847 [Worker-52: Launching UserControllerTest.whenGetInfoSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 18:11:09,848 [Worker-52: Launching UserControllerTest.whenGetInfoSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 18:17:43,258 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:17:43,259 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 18:17:43,260 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:17:43,261 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:19:39,343 [Worker-56: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:19:39,343 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:19:39,344 [Worker-56: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:19:39,344 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:19:46,665 [Worker-56: Launching UserControllerTest.whenQuerySuccess] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:19:46,665 [Worker-56: Launching UserControllerTest.whenQuerySuccess] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 18:19:46,666 [Worker-56: Launching UserControllerTest.whenQuerySuccess] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:19:46,666 [Worker-56: Launching UserControllerTest.whenQuerySuccess] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:19:47,386 [Worker-56: Launching UserControllerTest.whenQuerySuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 18:19:47,387 [Worker-56: Launching UserControllerTest.whenQuerySuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 18:20:12,632 [Worker-57: Launching UserControllerTest.whenGetInfoSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 18:20:12,632 [Worker-57: Launching UserControllerTest.whenGetInfoSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 18:20:37,945 [Worker-52: Launching UserControllerTest.whenQuerySuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 18:20:37,945 [Worker-52: Launching UserControllerTest.whenQuerySuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 18:24:59,552 [Worker-55: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:24:59,552 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 18:24:59,553 [Worker-55: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:24:59,554 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:25:05,506 [Worker-46: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 18:25:05,506 [Worker-46: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 18:25:47,211 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:25:47,212 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 18:25:47,212 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:25:47,213 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:25:53,195 [Worker-52: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 18:25:53,195 [Worker-52: Launching UserControllerTest] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 18:32:51,985 [Worker-55: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:32:51,986 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:32:51,987 [Worker-55: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:32:51,987 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:32:56,538 [Worker-59: Launching UserControllerTest.whenCreateSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 18:32:56,538 [Worker-59: Launching UserControllerTest.whenCreateSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 18:37:02,017 [Worker-63: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:37:02,017 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 18:37:02,018 [Worker-63: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:37:02,018 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:38:16,111 [Worker-64: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:38:16,112 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 18:38:16,113 [Worker-64: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:38:16,114 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:38:53,333 [Worker-55: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:38:53,334 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 18:38:53,334 [Worker-55: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:38:53,335 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:38:59,746 [Worker-61: Launching UserControllerTest.whenCreateSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 18:38:59,746 [Worker-61: Launching UserControllerTest.whenCreateSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-07-03 18:40:05,975 [Worker-63: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:40:05,976 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-03 18:40:05,976 [Worker-63: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-03 18:40:05,977 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-03 18:40:07,643 [Worker-62: Launching UserControllerTest.whenCreateSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-07-03 18:40:07,644 [Worker-62: Launching UserControllerTest.whenCreateSuccess] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
