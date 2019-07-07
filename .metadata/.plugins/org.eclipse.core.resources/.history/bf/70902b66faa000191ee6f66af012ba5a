@@ -57,10 +57,9 @@ public class UserController {
 		if (errors.hasErrors()) {
 			errors.getAllErrors().stream().forEach(error -> {
 			
-//				FieldError fieldError = (FieldError) error;
-//				String message = fieldError.getField() + " " + error.getDefaultMessage();
-//				System.out.println(message);
-				System.out.println(error.getDefaultMessage());
+				FieldError fieldError = (FieldError) error;
+				String message = fieldError.getField() + " " + error.getDefaultMessage();
+				System.out.println(message);
 			
 			});
 		}

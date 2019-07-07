@@ -3,8 +3,6 @@
  */
 package com.imooc.web.controller;
 
-import java.time.LocalDateTime;
-import java.time.ZoneId;
 import java.util.Date;
 
 import org.junit.Before;
@@ -89,7 +87,7 @@ public class UserControllerTest {
 	@Test
 	public void whenUpdateSuccess() throws Exception {
 		
-		Date date = new Date(LocalDateTime.now().plusYears(1).atZone(ZoneId.systemDefault()).toInstant().toEpochMilli());
+		Date date = new Date();
 		System.out.println(date.getTime());
 		String content = "{\"id\":\"1\",\"username\":\"tom\",\"password\":null,\"birthday\":" + date.getTime() 
 		+"}";

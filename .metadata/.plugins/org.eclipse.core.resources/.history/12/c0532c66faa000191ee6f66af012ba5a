@@ -25,10 +25,10 @@ public class User {
 	
 	private String username;
 	
-	@NotBlank(message = "密码不能为空")
+	@NotBlank
 	private String password;
 	
-	@Past(message = "生日必须为过去日期") 
+	@Past
 	private Date birthday;
 	
 	@JsonView(UserSimpleView.class)
