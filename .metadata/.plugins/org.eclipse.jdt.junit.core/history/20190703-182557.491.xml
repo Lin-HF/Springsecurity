@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="UserControllerTest" project="imooc-security-demo" tests="3" started="3" failures="0" errors="0" ignored="0">
-  <testsuite name="com.imooc.web.controller.UserControllerTest" time="0.159">
-    <testcase name="whenGetInfoFail" classname="com.imooc.web.controller.UserControllerTest" time="0.058"/>
-    <testcase name="whenQuerySuccess" classname="com.imooc.web.controller.UserControllerTest" time="0.088"/>
-    <testcase name="whenGetInfoSuccess" classname="com.imooc.web.controller.UserControllerTest" time="0.013"/>
-  </testsuite>
-</testrun>
