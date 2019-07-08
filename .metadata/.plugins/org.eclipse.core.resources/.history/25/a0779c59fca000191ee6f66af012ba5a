@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.imooc.validator;
+
+/**
+ * @author linhaifeng1
+ *
+ */
+public class MyConstraintValidator {
+
+}
