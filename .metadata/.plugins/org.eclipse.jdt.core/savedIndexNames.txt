@@ -62,7 +62,6 @@ INDEX VERSION 1.131+/Users/linhaifeng1/Documents/workspace-sts-3.9.9.RELEASE/.me
 4078750520.index
 2015354733.index
 2992301778.index
-1715320014.index
 1509164731.index
 3472238617.index
 2353848150.index
