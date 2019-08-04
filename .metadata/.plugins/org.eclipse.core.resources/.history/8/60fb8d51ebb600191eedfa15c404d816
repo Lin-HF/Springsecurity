@@ -1,0 +1,39 @@
+/**
+ * 
+ */
+package com.imooc.web.async;
+
+import org.springframework.stereotype.Component;
+
+/**
+ * @author linhaifeng1
+ *
+ */
+@Component
+public class MockQueue {
+
+	private String placeOrder;
+	
+	private String completeOrderString;
+
+	public String getPlaceOrder() {
+		return placeOrder;
+	}
+
+	public void setPlaceOrder(String placeOrder) throws Exception {
+		System.out.println("接到下单请求， " + placeOrder);
+		Thread.sleep(1000);
+		this.completeOrderString = placeOrder;
+		System.out.println("下单请求处理完毕， " + placeOrder);
+	}
+
+	public String getCompleteOrderString() {
+		return completeOrderString;
+	}
+
+	public void setCompleteOrderString(String completeOrderString) {
+		this.completeOrderString = completeOrderString;
+	}
+	
+	
+}

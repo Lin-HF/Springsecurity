@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.imooc.dto;
+
+/**
+ * @author linhaifeng1
+ *
+ */
+public class FileInfo {
+
+}

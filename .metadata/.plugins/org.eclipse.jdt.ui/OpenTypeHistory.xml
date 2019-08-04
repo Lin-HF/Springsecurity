@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
 <typeInfo handle="=imooc-security-demo/src\/main\/java&lt;com.imooc.service{HelloService.java[HelloService" modifiers="513" timestamp="1562535173000"/>
+<typeInfo handle="=imooc-security-demo/\/Library\/Java\/JavaVirtualMachines\/jdk1.8.0_66.jdk\/Contents\/Home\/jre\/lib\/rt.jar&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1444173647000"/>
+<typeInfo handle="=imooc-security-demo/\/Users\/linhaifeng1\/.m2\/repository\/org\/apache\/tomcat\/embed\/tomcat-embed-core\/8.5.16\/tomcat-embed-core-8.5.16.jar&lt;javax.servlet(Filter.class[Filter" modifiers="1537" timestamp="1562034324000"/>
+<typeInfo handle="=imooc-security-demo/\/Users\/linhaifeng1\/.m2\/repository\/org\/springframework\/spring-webmvc\/4.3.10.RELEASE\/spring-webmvc-4.3.10.RELEASE.jar&lt;org.springframework.web.servlet(HandlerInterceptor.class[HandlerInterceptor" modifiers="1537" timestamp="1562034324000"/>
 </typeInfoHistroy>

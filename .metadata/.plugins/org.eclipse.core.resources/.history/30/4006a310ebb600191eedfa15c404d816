@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.imooc.web.async;
+
+/**
+ * @author linhaifeng1
+ *
+ */
+public class QueueListener {
+
+}
