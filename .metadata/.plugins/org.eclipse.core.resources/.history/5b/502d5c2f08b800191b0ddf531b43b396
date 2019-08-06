@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.imooc.security.core;
+
+/**
+ * @author linhaifeng1
+ *
+ */
+public class SecurityCoreConfig {
+
+}

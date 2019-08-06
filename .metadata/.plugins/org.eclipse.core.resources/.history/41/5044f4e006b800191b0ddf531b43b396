@@ -1,0 +1,5 @@
+package com.imooc.security.browser.support;
+
+public class SimpleResponse {
+
+}

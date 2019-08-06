@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.imooc.security.core.properties;
+
+/**
+ * @author linhaifeng1
+ *
+ */
+public class BrowserProperties {
+
+}
