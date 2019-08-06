@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.imooc.security.browser;
+
+/**
+ * @author linhaifeng1
+ *
+ */
+public class BrowserSecurityConfig {
+
+}
