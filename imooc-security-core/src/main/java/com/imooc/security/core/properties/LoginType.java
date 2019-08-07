@@ -1,0 +1,16 @@
+/**
+ * 
+ */
+package com.imooc.security.core.properties;
+
+/**
+ * @author linhaifeng1
+ *
+ */
+public enum LoginType {
+	
+	REDIRECT,
+	
+	JSON
+
+}

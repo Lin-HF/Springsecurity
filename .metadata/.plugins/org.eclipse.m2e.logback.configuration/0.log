@@ -2832,3 +2832,117 @@ org.eclipse.core.runtime.CoreException: Variable references non-existent resourc
 2019-08-05 22:25:02,227 [Worker-91: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-08-05 22:25:07,560 [Worker-76: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
 2019-08-05 22:25:07,560 [Worker-76: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-08-06 16:33:33,266 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-06 16:33:58,630 [Worker-4: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier  to /imooc-security-core/target/classes
+2019-08-06 16:34:24,855 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:34:24,860 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 16:34:24,865 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:34:24,866 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 16:35:57,823 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:35:57,828 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 16:35:57,829 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:35:57,830 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 16:41:15,503 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:41:15,504 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 16:41:15,505 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:41:15,506 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 16:45:28,600 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:45:28,601 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 16:45:28,602 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:45:28,602 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 16:47:50,063 [Worker-3: Launching DemoApplication (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:47:50,064 [Worker-3: Launching DemoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 16:47:50,065 [Worker-3: Launching DemoApplication (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:47:50,066 [Worker-3: Launching DemoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 16:47:50,512 [Worker-3: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier  to /imooc-security-browser/target/classes
+2019-08-06 16:47:50,512 [Worker-3: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier  to /imooc-security-core/target/classes
+2019-08-06 16:47:50,557 [Worker-3: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-08-06 16:47:50,557 [Worker-3: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-08-06 16:49:40,492 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:49:40,493 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-08-06 16:49:40,496 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:49:40,497 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 16:49:42,906 [Worker-16: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-08-06 16:49:42,906 [Worker-16: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-08-06 16:58:05,195 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:58:05,196 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 16:58:05,197 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:58:05,197 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 16:58:58,315 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:58:58,316 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 16:58:58,319 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 16:58:58,319 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:03:34,755 [Worker-19: Launching DemoApplication (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:03:34,756 [Worker-19: Launching DemoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 17:03:34,757 [Worker-19: Launching DemoApplication (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:03:34,757 [Worker-19: Launching DemoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:03:34,797 [Worker-19: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-08-06 17:03:34,797 [Worker-19: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-08-06 17:05:43,521 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:05:43,522 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 17:05:43,523 [Worker-18: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:05:43,523 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:06:41,908 [Worker-24: Launching DemoApplication (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:06:41,909 [Worker-24: Launching DemoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 17:06:41,909 [Worker-24: Launching DemoApplication (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:06:41,910 [Worker-24: Launching DemoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:06:41,933 [Worker-24: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-08-06 17:06:41,934 [Worker-24: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-08-06 17:10:50,050 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:10:50,051 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:10:50,052 [Worker-26: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:10:50,053 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:11:19,867 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:11:19,868 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:11:19,868 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:11:19,869 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:12:16,783 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:12:16,784 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:12:16,785 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:12:16,785 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:18:01,569 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:18:01,570 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 17:18:01,571 [Worker-19: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:18:01,572 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:18:17,922 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:18:17,923 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 17:18:17,924 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:18:17,925 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:20:40,524 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:20:40,525 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 17:20:40,526 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:20:40,527 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:23:05,994 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:23:05,996 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 17:23:05,997 [Worker-34: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:23:05,997 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:23:08,048 [Worker-14: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-08-06 17:23:08,048 [Worker-14: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-08-06 17:25:50,821 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:25:50,822 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 17:25:50,823 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:25:50,823 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:26:13,162 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:26:13,163 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-06 17:26:13,164 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 17:26:13,165 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 17:26:32,370 [Worker-36: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-08-06 17:26:32,370 [Worker-36: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-08-06 19:33:52,450 [Worker-41: Launching DemoApplication (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 19:33:52,451 [Worker-41: Launching DemoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2019-08-06 19:33:52,452 [Worker-41: Launching DemoApplication (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 19:33:52,452 [Worker-41: Launching DemoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 19:33:54,089 [Worker-41: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-08-06 19:33:54,089 [Worker-41: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-08-06 19:35:58,032 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 19:35:58,033 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2019-08-06 19:35:58,034 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 19:35:58,035 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 19:35:59,866 [Worker-49: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-08-06 19:35:59,867 [Worker-49: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
+2019-08-06 19:39:29,644 [Worker-51: Launching DemoApplication (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 19:39:29,645 [Worker-51: Launching DemoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2019-08-06 19:39:29,646 [Worker-51: Launching DemoApplication (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-08-06 19:39:29,646 [Worker-51: Launching DemoApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-06 19:39:30,498 [Worker-51: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-browser: com.imooc.security:imooc-security-browser:1.0.0-SNAPSHOT with classifier null to /imooc-security-browser/target/classes
+2019-08-06 19:39:30,498 [Worker-51: Launching DemoApplication (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/imooc-security-core: com.imooc.security:imooc-security-core:1.0.0-SNAPSHOT with classifier null to /imooc-security-core/target/classes
